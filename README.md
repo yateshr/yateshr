@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hey%2C+I%27m+Yatesh+Rohit%3BI+build+tools+for+real-world+work.)](https://github.com/yateshr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+I%27m+Yatesh+Rohit+%F0%9F%91%8B%3BI+build+things+that+actually+work.)](https://git.io/typing-svg)
 
-<img src="assets/header.svg" alt="Yatesh Rohit — Build useful tools. Simplify everyday work." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6%2C11%2C20&amp;height=180&amp;section=header&amp;text=Yatesh+Rohit&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Code.+Ship.+Repeat.&amp;descSize=20&amp;descAlignY=55" alt="Yatesh Rohit — Code. Ship. Repeat." width="100%" />
 
 **IT Officer at Nirmal Poly Plast Private Limited**  
 Sarigam, Gujarat, India
@@ -24,17 +24,18 @@ Sarigam, Gujarat, India
 ```python
 class YateshRohit:
     name        = "Yatesh Rohit"
-    designation = "IT Officer"
-    company     = "Nirmal Poly Plast Private Limited"
-    location    = "Sarigam, Gujarat, India"
-    status      = "Building tools for everyday work"
+    pronouns    = "He / Him"
+    location    = "🌏 Sarigam, Gujarat, India"
+    status      = "⚡ Always building something"
 
-    projects    = ["TypeMaster", "NPPLPrintMaster", "AssetFlow"]
-    interests   = ["Automation", "Desktop Apps", "IT Tools", "Open Source"]
-    focus       = "Useful software, clear reports and simpler workflows"
+    languages   = ["Python", "JavaScript", "TypeScript", "Bash", "Go"]
+    interests   = ["Automation", "Open Source", "DevOps", "AI/ML", "Bots"]
+
+    currently   = "Shipping code that matters 🚀"
+    motto       = "If it can be automated, it will be automated."
 
     def __repr__(self):
-        return "Turning everyday problems into practical software."
+        return "That one dev who actually commits on weekends."
 ```
 
 ---
@@ -113,7 +114,7 @@ The technologies above are used across my published projects and their build too
 
 <div align="center">
 
-![Developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
